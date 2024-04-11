@@ -23,10 +23,20 @@
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
 </div>
 
-### ferramentas
+### ⚙️Ferramentas
 
 <div style="display: inline_block">
 
    <a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="41px" height="41px"></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 </div>
+
+### Contatos
+<div>joao victor prudencio</div>
+
+<a href="https://www.linkedin.com/in/joão-victor-prudencio">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<div>@joaovictor_prudencio</div>
+
+<a href="https://www.instagram.com/joao_victorprudencio/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
