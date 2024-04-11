@@ -40,3 +40,6 @@
 
 <a href="https://www.instagram.com/joao_victorprudencio/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorprudencio&show_icons=true&theme=transparent)
+![Joao Victor Prudencio](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorprudencio&layout=compact&langs_count=8&theme=tokyonight)
+
