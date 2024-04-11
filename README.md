@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-* bacharel de Sistemas de informação
+* bacharel em Sistemas de informação
 * Desenvolvedor Back end em java
 * habilidades em HTML5 CSS3 Javascript
   
