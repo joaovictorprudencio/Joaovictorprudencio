@@ -3,9 +3,9 @@
 
 ### Sobre mim
 
-* bacharel em Sistemas de informação
+* Bacharel em Sistemas de informação
 * Desenvolvedor Back end em java
-* habilidades em HTML5 CSS3 Javascript
+* Habilidades em HTML5 CSS3 Javascript
   
 
 ### 💻 Habilidades:
@@ -32,7 +32,7 @@
 </div>
 
 ### Contatos
-<div>joao victor prudencio</div>
+<div>Joao Victor Prudencio</div>
 
 <a href="https://www.linkedin.com/in/joão-victor-prudencio">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
