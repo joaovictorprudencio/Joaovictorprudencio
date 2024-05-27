@@ -12,8 +12,7 @@
 <div style="display: inline_block">
  
   
-  <a href="https://www.w3.org/TR/html5/" title="HML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
-  <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
+   <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="41px" height="41px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
   <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="41px" height="41px"></a>
@@ -28,6 +27,7 @@
 <div style="display: inline_block">
 
    <a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="41px" height="41px"></a>
+   <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="41px" height="41px"></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 </div>
 
