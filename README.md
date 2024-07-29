@@ -5,7 +5,7 @@
 
 * Bacharel em Sistemas de informação
 * Desenvolvedor Back end 
-* Habilidades em HTML5 CSS3 Javascript
+* Habilidades em desenvolvimento Front-end
   
 
 ### 💻 Habilidades:
